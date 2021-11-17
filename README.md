@@ -1,1 +1,1 @@
-# baby-html-cv
+# html-cv
